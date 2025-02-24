@@ -1,6 +1,1 @@
-# Scraper specific
-scraper/node_modules/
-scraper/dist/
-scraper/*.env
-scraper/.idea
-scraper/.vscode
+.idea/
